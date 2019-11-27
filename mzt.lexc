@@ -1,0 +1,7 @@
+Multichar_Symbols
+
+%<n%>                ! Nombre
+
+LEXICON Root
+
+chito%<n%>:chito # ; ! "mosco"

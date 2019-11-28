@@ -4,4 +4,50 @@ Multichar_Symbols
 
 LEXICON Root
 
-chito%<n%>:chito # ; ! "mosco"
+chito%<n%>:chito N ; ! "mosco"
+tsa̠%<n%>:tsa̠ N ; ! "rápido"
+tsi̠u̠n%<n%>:tsi̠u̠n N ; ! "cigarro"
+tsju%<n%>:tsju N ; ! "tostado"
+tsjá%<n%>:tsjá N ; ! "tejón"
+tsjaukun%<n%>:tsjaukun N ; ! "bonito"
+tsje̠e%<n%>:tsje̠e N ; ! "limpio"
+tsjíán%<n%>:tsjíán N ; ! "musgo"
+tsiniín%<n%>:tsiniín N ; ! "tío"
+tsiñán%<n%>:tsiñán N ; ! "camarón"
+tsi'i%<n%>:tsi N ; ! "nauseas"
+niyana%<n%>:niyana N ; ! "nuestra casa"
+maestrori%<n%>:maestrori N ; ! "tu maestro"
+maestrona%<n%>:maestrona N ; ! "mi maestro"
+naxtiná%<n%>:naxtiná N ; ! "mis ropas"
+niñuna%<n%>:niñuna N ; ! "mi tortilla"
+ápana%<n%>:ápana N ; ! "mi papá"
+tareari%<n%>:tareari N ; ! "tu tarea"
+yaniñuba%<n%>:yaniñuba N ; ! "la tortillera"
+niyajiejan%<n%>:niyajiejan N ; ! "casa grande"
+tsinira%<n%>:tsinira N ; ! "mi tío"
+tsinira%<n%>:tsini N ; ! "su tío"
+ndetjuúan%<n%>:ndetjúan N ; ! "mi naríz"
+ndetjún%<n%>:ndetjún N ; ! "tú nariz"
+niyaba%<n%>:niyaba N ; ! "la casa"
+tjiéba%<n%>:tjiéba N ; ! "el zapato"
+niñuba%<n%>:niñuba N ; ! "la tortilla"
+natsiee%<n%>:natsiee N ; ! "conejo"
+natsieéba%<n%>:natsieéba N ; ! "los conejos"
+naxkie%<n%>:naxkie N ; ! "sapo"
+naxkié%<n%>:naxkié N ; ! "sapos"
+naña%<n%>:naña N ; ! "perro"
+nañá%<n%>:nañá N ; ! "perros"
+kutu%<n%>:kutu N ; ! "camisa"
+kutuna%<n%>:kutuna N ; ! "mi camisa"
+kuturi%<n%>:kuturi N ; ! "tu camisa"
+kutura%<n%>:kutura N ; ! "su camisa"
+nanguiná%<n%>:nanguiná N ; ! "mi tierra"
+
+LEXICON POSS
+%<px1sg%>:ná # ; ! 
+%<px2sg%>:ri # ; !
+%<px3sg%>:rá # ; !
+
+LEXICON N
+#;
+POSS;

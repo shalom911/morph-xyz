@@ -17,3 +17,5 @@ mzt.mor.twol.hfst: mzt.mor.twol
 
 mzt.mor.hfstol: mzt.mor.hfst
 	hfst-fst2fst -w $< -o $@
+	
+	hfst-compose -1 mzt.mor.hfst -2 mzt.gen.hfst -o mzt.seg.hfst

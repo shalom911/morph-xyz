@@ -44,9 +44,9 @@ kutura%<n%>:kutura N ; ! "su camisa"
 nanguiná%<n%>:nanguiná N ; ! "mi tierra"
 
 LEXICON POSS
-%<px1sg%>:ná # ; ! 
-%<px2sg%>:ri # ; !
-%<px3sg%>:rá # ; !
+%<px1sg%>:%>ná # ; ! 
+%<px2sg%>:%>ri # ; !
+%<px3sg%>:%>rá # ; !
 
 LEXICON N
 #;

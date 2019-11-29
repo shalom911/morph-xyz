@@ -15,6 +15,6 @@ mzt.mor.hfst: mzt.gen.hfst
 	hfst-invert $< -o mzt.mor.hfst
 
 
-mzt.mor.twol.hfst: mzt.mor.twol.hfst
+mzt.mor.twol.hfst: mzt.mor.twol.
 	hfst-twolcmxt.mor.twol -o mzt.mor.twol.hfst
 
